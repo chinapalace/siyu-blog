@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "siyu-blog",
+  "description": "Blog for Siyu Capital",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Justin McLaren <me@justinmclaren.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
+    "url": "https://github.com/chinapalace/siyu-blog/issues"
   },
   "dependencies": {
     "gatsby": "^1.9.223",
@@ -35,15 +35,16 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.11.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/chinapalace/siyu-blog",
   "keywords": [
-    "gatsby"
+    "siyu",
+    "capital"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/chinapalace/siyu-blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
